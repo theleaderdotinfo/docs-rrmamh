@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-m1ydtb.pulaucuanwin.sbs/sitemap.xml
